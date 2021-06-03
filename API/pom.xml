@@ -5,7 +5,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <parent>
         <artifactId>parent</artifactId>
-        <groupId>org.inventivetalent.packetlistener</groupId>
+        <groupId>org.inventivetalent.packetlistenerapi</groupId>
         <version>parent</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
@@ -36,12 +36,12 @@
         <dependency>
             <groupId>org.inventivetalent</groupId>
             <artifactId>reflectionhelper</artifactId>
-            <version>1.15.1-SNAPSHOT</version>
+            <version>1.17.1-SNAPSHOT</version>
         </dependency>
         <dependency>
             <groupId>org.inventivetalent</groupId>
             <artifactId>apimanager</artifactId>
-            <version>1.0.3-SNAPSHOT</version>
+            <version>1.0.4-SNAPSHOT</version>
         </dependency>
 
         <dependency>
